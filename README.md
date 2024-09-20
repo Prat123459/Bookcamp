@@ -5,7 +5,7 @@
 <img width="1440" alt="Screenshot 2024-07-03 at 3 08 45 AM" src="https://github.com/Prat123459/Bookcamp/blob/main/2.PNG">
 
 # Register page
-<img width="1440" alt="Screenshot 2024-07-03 at 3 13 14 AM" src="https://github.com/Aman172003/BookCamp/assets/98376634/b7374157-96ab-44c9-805f-d209f8de993d">
+<img width="1440" alt="Screenshot 2024-07-03 at 3 13 14 AM" src="https://github.com/Prat123459/Bookcamp/blob/main/3.PNG">
 
 # New Campsite Page
 <img width="1440" alt="Screenshot 2024-07-03 at 3 20 44 AM" src="https://github.com/Aman172003/BookCamp/assets/98376634/38a5538c-34bb-43ec-a6e5-c4eedf95acaf">
