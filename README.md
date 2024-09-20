@@ -15,7 +15,7 @@
 <img width="1440" alt="Screenshot 2024-07-03 at 3 18 38 AM" src="https://github.com/Prat123459/Bookcamp/blob/main/6.PNG">
 
 # About Campsite
-<img width="1440" alt="Screenshot 2024-07-03 at 3 20 23 AM" src="https://github.com/Aman172003/BookCamp/assets/98376634/670da9a8-6a92-425e-874a-c9458ed6640a">
+<img width="1440" alt="Screenshot 2024-07-03 at 3 20 23 AM" src="https://github.com/Prat123459/Bookcamp/blob/main/7.PNG">
 
 # Tech Stacks
 #### 👉🏻 Node.js
